@@ -1,3 +1,3 @@
-Personal website for Zhutian Liu at UCR GeNela.
+# zhutian-page (retired)
 
-Template taken from Jon Barron's public academic website: https://jonbarron.info/
+This site has moved to https://ztliu.com. The pages here only redirect there.
